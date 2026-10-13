@@ -1,5 +1,5 @@
 {
-  "tag": "scenes-v1",
+  "tag": "scenes-v2",
   "size": [
     1080,
     1440
@@ -607,6 +607,610 @@
       "bubble": {
         "x": 479,
         "y": 1168,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-first-snow",
+      "title": "첫눈 마을",
+      "season": "winter",
+      "hero": "snowman",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e1ebf5",
+        "ground": "#e4ecf0",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 360,
+        "y": 1104,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-snow-mountain",
+      "title": "설산 해돋이",
+      "season": "winter",
+      "hero": "sun",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#efddd4",
+        "ground": "#e2e9e9",
+        "accent": "#8fb3d9"
+      },
+      "bubble": null
+    },
+    {
+      "id": "w-icicle-eave",
+      "title": "고드름 처마",
+      "season": "winter",
+      "hero": "sparrow",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e1ebf5",
+        "ground": "#e8ecec",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 422,
+        "y": 1027,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-pine-squirrel",
+      "title": "눈 덮인 소나무 숲",
+      "season": "winter",
+      "hero": "greysquirrel",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e0eaf5",
+        "ground": "#e2e1e0",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 403,
+        "y": 1036,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-paddy-sled",
+      "title": "논 썰매장",
+      "season": "winter",
+      "hero": "puppy-scarf",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dfebf6",
+        "ground": "#c2dff1",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 412,
+        "y": 1085,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-chestnut-cart",
+      "title": "군밤 리어카",
+      "season": "winter",
+      "hero": "chestnut-scarf",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e0eaf5",
+        "ground": "#eaeef3",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 408,
+        "y": 1141,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-bungeo-stall",
+      "title": "붕어빵 노점",
+      "season": "winter",
+      "hero": "bungeoppang",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e1ebf5",
+        "ground": "#d9ccc2",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 433,
+        "y": 1024,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-ice-top",
+      "title": "얼음 팽이치기",
+      "season": "winter",
+      "hero": "top",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#deebf6",
+        "ground": "#c1dbe9",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 431,
+        "y": 1171,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-ondol-tangerine",
+      "title": "아랫목 귤",
+      "season": "winter",
+      "hero": "tangerine",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dce1e6",
+        "ground": "#ecaa95",
+        "accent": "#f39a2a"
+      },
+      "bubble": {
+        "x": 403,
+        "y": 1195,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-porch-cat",
+      "title": "툇마루 털실 고양이",
+      "season": "winter",
+      "hero": "cat",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e1ebf5",
+        "ground": "#c19567",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 394,
+        "y": 1124,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-kimjang",
+      "title": "김장하는 날",
+      "season": "winter",
+      "hero": "cabbage",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e5edf2",
+        "ground": "#dfc09a",
+        "accent": "#e0453a"
+      },
+      "bubble": {
+        "x": 388,
+        "y": 1202,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-tteokguk",
+      "title": "새해 떡국",
+      "season": "winter",
+      "hero": "tteokguk",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e6e0da",
+        "ground": "#d39f5d",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 440,
+        "y": 1184,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-camellia",
+      "title": "동백꽃 동박새",
+      "season": "winter",
+      "hero": "whiteeye",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d5e8f6",
+        "ground": "#e9e6ec",
+        "accent": "#d9263a"
+      },
+      "bubble": {
+        "x": 462,
+        "y": 1016,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-crane-field",
+      "title": "눈 들판 두루미",
+      "season": "winter",
+      "hero": "crane",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e0eaf5",
+        "ground": "#e5edf5",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 440,
+        "y": 1047,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-jangdok-magpie",
+      "title": "눈 쌓인 장독대",
+      "season": "winter",
+      "hero": "magpie",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e1ebf5",
+        "ground": "#cac3bd",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 457,
+        "y": 952,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-snow-station",
+      "title": "눈 오는 기차역",
+      "season": "winter",
+      "hero": "sun",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dde8f4",
+        "ground": "#eff3f4",
+        "accent": "#8fb3d9"
+      },
+      "bubble": null
+    },
+    {
+      "id": "w-port-gull",
+      "title": "겨울 항구",
+      "season": "winter",
+      "hero": "gull",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dbe8f4",
+        "ground": "#eeeeee",
+        "accent": "#3a8ab0"
+      },
+      "bubble": {
+        "x": 448,
+        "y": 1061,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-ice-fishing",
+      "title": "얼음낚시",
+      "season": "winter",
+      "hero": "smelt",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e0eaf5",
+        "ground": "#cce1ef",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 450,
+        "y": 1149,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-sled-hill",
+      "title": "눈썰매 언덕",
+      "season": "winter",
+      "hero": "rabbit-scarf",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#deebf6",
+        "ground": "#e6ebf3",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 404,
+        "y": 1107,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-frost-window",
+      "title": "성에 낀 창가 유자차",
+      "season": "winter",
+      "hero": "teacup-yuja",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dee2e6",
+        "ground": "#f3e3c8",
+        "accent": "#f2b52b"
+      },
+      "bubble": {
+        "x": 417,
+        "y": 1031,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-snow-cottage",
+      "title": "눈 덮인 시골집",
+      "season": "winter",
+      "hero": "rooster",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e1ebf5",
+        "ground": "#f9fbfd",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 397,
+        "y": 990,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-rime-tit",
+      "title": "상고대 숲",
+      "season": "winter",
+      "hero": "tit",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c5dff3",
+        "ground": "#edf3f9",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 463,
+        "y": 1023,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-dawn-snow",
+      "title": "새벽 설경",
+      "season": "winter",
+      "hero": "moon",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#9d9bc3",
+        "ground": "#acb6cd",
+        "accent": "#8fb3d9"
+      },
+      "bubble": null
+    },
+    {
+      "id": "w-birch-deer",
+      "title": "자작나무 숲",
+      "season": "winter",
+      "hero": "deer",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dee8ef",
+        "ground": "#eff2f5",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 484,
+        "y": 1093,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-snowduck-park",
+      "title": "공원 눈오리",
+      "season": "winter",
+      "hero": "snowduck",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e1ebf5",
+        "ground": "#f3f2f3",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 483,
+        "y": 1149,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-hotteok-stall",
+      "title": "호떡 수레",
+      "season": "winter",
+      "hero": "hotteok",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e0eaf5",
+        "ground": "#d9ccc2",
+        "accent": "#c47a2e"
+      },
+      "bubble": {
+        "x": 420,
+        "y": 1040,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-east-sea",
+      "title": "동해 해맞이",
+      "season": "winter",
+      "hero": "sun",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#fbd0b4",
+        "ground": "#516878",
+        "accent": "#3a8ab0"
+      },
+      "bubble": null
+    },
+    {
+      "id": "w-cabin-raccoon",
+      "title": "겨울 산장",
+      "season": "winter",
+      "hero": "raccoondog",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e0eaf5",
+        "ground": "#e2e5e7",
+        "accent": "#8fb3d9"
+      },
+      "bubble": {
+        "x": 398,
+        "y": 1142,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-ice-lake-mallard",
+      "title": "얼음 호수 청둥오리",
+      "season": "winter",
+      "hero": "mallard",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e0eaf5",
+        "ground": "#d1e1ea",
+        "accent": "#2f7a4a"
+      },
+      "bubble": {
+        "x": 466,
+        "y": 1126,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-snow-alley",
+      "title": "함박눈 골목 우체통",
+      "season": "winter",
+      "hero": "mailbox-snow",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dce4ed",
+        "ground": "#e9f0f6",
+        "accent": "#d9322a"
+      },
+      "bubble": {
+        "x": 357,
+        "y": 1134,
+        "side": "right"
+      }
+    },
+    {
+      "id": "w-kite-field",
+      "title": "연날리기",
+      "season": "winter",
+      "hero": "shieldkite",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d5e8f6",
+        "ground": "#eff2f6",
+        "accent": "#e0453a"
+      },
+      "bubble": {
+        "x": 458,
+        "y": 1049,
         "side": "right"
       }
     }
