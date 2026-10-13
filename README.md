@@ -9,7 +9,7 @@ https://cdn.jsdelivr.net/gh/app-in-hungry/card-assets@<태그>/<앱>/<특집>/<i
 | 앱 | 특집 | 태그 | 내용 |
 |---|---|---|---|
 | `morning-card/` (아침 인사 카드 · app34) | `chuseok-2026/` | `chuseok-2026-v1` | 추석 2026 카드 50장 · 1080×1440 JPEG · 글자가 그림 안에 있다 · `manifest.json`(id · 단계 · 글 줄) |
-| `morning-card/` | `scenes/` | **`scenes-v3`**(가을 + 겨울 · v1 = 가을만 · v2 는 쓰지 않음 — 아래 규칙) | 장면 바탕 그림 — 계절마다 31장면 × 2(기본 · 좌우 뒤집음) · 1080×1440 JPEG · 글자 없음(앱이 날짜 · 카드 판 · 해님이를 얹는다) · `manifest.json`(id · 계절 · 주인공 · 팔레트 · 말풍선 자리). 만드는 곳 `app34-morning-card/tools/shorts/stills.mjs`(유튜브 쇼츠와 같은 장면) · 계절이 늘면 누적 태그 `scenes-v2` … |
+| `morning-card/` | `scenes/` | **`scenes-v4`**(가을 + 겨울 + 봄 + 여름 124장면 · v3 = 가을 + 겨울 · v1 = 가을만 · v2 는 쓰지 않음 — 아래 규칙) | 장면 바탕 그림 — 계절마다 31장면 × 2(기본 · 좌우 뒤집음) · 1080×1440 JPEG · 글자 없음(앱이 날짜 · 카드 판 · 해님이를 얹는다) · `manifest.json`(id · 계절 · 주인공 · 팔레트 · 말풍선 자리). 만드는 곳 `app34-morning-card/tools/shorts/stills.mjs`(유튜브 쇼츠와 같은 장면) · 계절이 늘면 누적 태그 `scenes-v2` … |
 | `morning-card/` | `shorts/` | 릴리스 `shorts-rN` | 유튜브 쇼츠 영상(30초 · 1080×1920 · 날마다 한 편)은 **저장소가 아니라 깃허브 릴리스 파일**(`releases/download/shorts-rN/YYYY-MM-DD.mp4`) · 목록 `shorts/manifest.json` 만 저장소에(IFTTT 가 **raw 주소**로 매일 06:00 읽는다). 만드는 곳 `app34-morning-card/tools/shorts/`(batch · publish · IFTTT.md) |
 
 ## 규칙

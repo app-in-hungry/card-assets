@@ -1,5 +1,5 @@
 {
-  "tag": "scenes-v2",
+  "tag": "scenes-v4",
   "size": [
     1080,
     1440
@@ -1211,6 +1211,1222 @@
       "bubble": {
         "x": 458,
         "y": 1049,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-cherry-road",
+      "title": "벚꽃 길",
+      "season": "spring",
+      "hero": "bulbul",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e5eaf3",
+        "ground": "#d4d3c6",
+        "accent": "#f08ab4"
+      },
+      "bubble": {
+        "x": 457,
+        "y": 1035,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-azalea-sunrise",
+      "title": "진달래 산 해돋이",
+      "season": "spring",
+      "hero": "sun",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#fadee6",
+        "ground": "#90897e",
+        "accent": "#e05d97"
+      },
+      "bubble": null
+    },
+    {
+      "id": "s-forsythia-chick",
+      "title": "개나리 담장",
+      "season": "spring",
+      "hero": "chick",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e2eff1",
+        "ground": "#bfd690",
+        "accent": "#f2b52b"
+      },
+      "bubble": {
+        "x": 510,
+        "y": 1184,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-canola-jeju",
+      "title": "제주 유채꽃",
+      "season": "spring",
+      "hero": "bee",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d4ebf9",
+        "ground": "#d5bc3f",
+        "accent": "#f2b52b"
+      },
+      "bubble": {
+        "x": 465,
+        "y": 1066,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-tulip-garden",
+      "title": "튤립 정원",
+      "season": "spring",
+      "hero": "butterfly",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e2eff1",
+        "ground": "#8eba5d",
+        "accent": "#e0453a"
+      },
+      "bubble": {
+        "x": 414,
+        "y": 1003,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-dandelion",
+      "title": "민들레 홀씨",
+      "season": "spring",
+      "hero": "dandelion",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dceef2",
+        "ground": "#a4c66d",
+        "accent": "#9a9a8a"
+      },
+      "bubble": {
+        "x": 418,
+        "y": 1086,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-rice-planting",
+      "title": "모내기 논",
+      "season": "spring",
+      "hero": "frog",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d6ebf7",
+        "ground": "#aad0da",
+        "accent": "#5aa63a"
+      },
+      "bubble": {
+        "x": 445,
+        "y": 1078,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-spring-rain",
+      "title": "봄비 달팽이",
+      "season": "spring",
+      "hero": "snail",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dfe7ee",
+        "ground": "#92ba74",
+        "accent": "#5a8fb0"
+      },
+      "bubble": {
+        "x": 482,
+        "y": 1095,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-swallow-eave",
+      "title": "처마 밑 제비",
+      "season": "spring",
+      "hero": "swallow",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dceef2",
+        "ground": "#d9c79c",
+        "accent": "#2f3a5a"
+      },
+      "bubble": {
+        "x": 457,
+        "y": 1003,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-strawberry-farm",
+      "title": "딸기밭",
+      "season": "spring",
+      "hero": "strawberry",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dceef2",
+        "ground": "#a37855",
+        "accent": "#e0303a"
+      },
+      "bubble": {
+        "x": 404,
+        "y": 1223,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-herb-basket",
+      "title": "봄나물 토끼",
+      "season": "spring",
+      "hero": "rabbit-herb",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dceef2",
+        "ground": "#acc676",
+        "accent": "#6aa64f"
+      },
+      "bubble": {
+        "x": 391,
+        "y": 1167,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-plum-sparrow",
+      "title": "매화 참새",
+      "season": "spring",
+      "hero": "sparrow",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#deebf1",
+        "ground": "#b4c682",
+        "accent": "#e8a0b8"
+      },
+      "bubble": {
+        "x": 457,
+        "y": 1023,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-magnolia-cat",
+      "title": "목련 정원",
+      "season": "spring",
+      "hero": "cat",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#deebf3",
+        "ground": "#a7c774",
+        "accent": "#c890b0"
+      },
+      "bubble": {
+        "x": 400,
+        "y": 1143,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-pond-ducklings",
+      "title": "연못 아기 오리",
+      "season": "spring",
+      "hero": "duckling",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dceef2",
+        "ground": "#7fbacc",
+        "accent": "#f2c14e"
+      },
+      "bubble": {
+        "x": 464,
+        "y": 1114,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-barley-lark",
+      "title": "청보리밭",
+      "season": "spring",
+      "hero": "lark",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d6ebf7",
+        "ground": "#72ac53",
+        "accent": "#6aa64f"
+      },
+      "bubble": {
+        "x": 457,
+        "y": 1077,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-mudflat-crab",
+      "title": "봄 갯벌",
+      "season": "spring",
+      "hero": "crab",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d6eaf6",
+        "ground": "#958775",
+        "accent": "#e8702e"
+      },
+      "bubble": {
+        "x": 436,
+        "y": 1168,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-tea-ladybug",
+      "title": "녹차밭 무당벌레",
+      "season": "spring",
+      "hero": "ladybug",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d6ebf2",
+        "ground": "#6bb155",
+        "accent": "#4f9a4a"
+      },
+      "bubble": {
+        "x": 422,
+        "y": 1073,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-azalea-squirrel",
+      "title": "철쭉 언덕",
+      "season": "spring",
+      "hero": "squirrel",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dae8f5",
+        "ground": "#8e9b5a",
+        "accent": "#e0408a"
+      },
+      "bubble": {
+        "x": 437,
+        "y": 1035,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-seed-garden",
+      "title": "씨앗 텃밭",
+      "season": "spring",
+      "hero": "sprout",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dceef2",
+        "ground": "#835c40",
+        "accent": "#6aa64f"
+      },
+      "bubble": {
+        "x": 424,
+        "y": 1201,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-pinwheel-field",
+      "title": "바람개비 들판",
+      "season": "spring",
+      "hero": "pinwheel",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d6ebf7",
+        "ground": "#95c262",
+        "accent": "#5a8fb0"
+      },
+      "bubble": {
+        "x": 397,
+        "y": 1090,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-carnation",
+      "title": "카네이션 화분",
+      "season": "spring",
+      "hero": "carnation",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e1eaf1",
+        "ground": "#f6f1e6",
+        "accent": "#e0303a"
+      },
+      "bubble": {
+        "x": 420,
+        "y": 1197,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-sheep-ranch",
+      "title": "양떼목장",
+      "season": "spring",
+      "hero": "sheep",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d6ebf7",
+        "ground": "#86bb53",
+        "accent": "#6aa64f"
+      },
+      "bubble": {
+        "x": 489,
+        "y": 1202,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-cornelian-tit",
+      "title": "산수유 마을",
+      "season": "spring",
+      "hero": "greattit",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e0eded",
+        "ground": "#adcc8b",
+        "accent": "#f2b52b"
+      },
+      "bubble": {
+        "x": 460,
+        "y": 1036,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-rainbow",
+      "title": "비 갠 무지개",
+      "season": "spring",
+      "hero": "sun",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d0e0ed",
+        "ground": "#94c266",
+        "accent": "#5a8fb0"
+      },
+      "bubble": null
+    },
+    {
+      "id": "s-green-woodpecker",
+      "title": "연둣빛 숲",
+      "season": "spring",
+      "hero": "woodpecker",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d2e8bf",
+        "ground": "#92ba5d",
+        "accent": "#6ab84a"
+      },
+      "bubble": {
+        "x": 437,
+        "y": 1049,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-river-cherry-train",
+      "title": "섬진강 벚꽃 기차",
+      "season": "spring",
+      "hero": "sun",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dfe8f3",
+        "ground": "#95c9dc",
+        "accent": "#f08ab4"
+      },
+      "bubble": null
+    },
+    {
+      "id": "s-dawn-spring",
+      "title": "새벽 봄 해돋이",
+      "season": "spring",
+      "hero": "moon",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#9f9bc3",
+        "ground": "#54684e",
+        "accent": "#f08ab4"
+      },
+      "bubble": null
+    },
+    {
+      "id": "s-window-flowers",
+      "title": "꽃 화분 창가",
+      "season": "spring",
+      "hero": "teacup",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e1e2e5",
+        "ground": "#f3e3c8",
+        "accent": "#e0453a"
+      },
+      "bubble": {
+        "x": 417,
+        "y": 1031,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-spring-fawn",
+      "title": "옹달샘 아기 노루",
+      "season": "spring",
+      "hero": "fawn",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#cce6ba",
+        "ground": "#a4c46c",
+        "accent": "#6ab84a"
+      },
+      "bubble": {
+        "x": 441,
+        "y": 1116,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-petal-park",
+      "title": "벚꽃 비 공원",
+      "season": "spring",
+      "hero": "pigeon",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e5eaf3",
+        "ground": "#afcc7f",
+        "accent": "#f08ab4"
+      },
+      "bubble": {
+        "x": 444,
+        "y": 1009,
+        "side": "right"
+      }
+    },
+    {
+      "id": "s-beehive",
+      "title": "꿀벌 집",
+      "season": "spring",
+      "hero": "bee",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d9ecf2",
+        "ground": "#a6c46d",
+        "accent": "#f2b52b"
+      },
+      "bubble": {
+        "x": 470,
+        "y": 1025,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-sunflower-bee",
+      "title": "해바라기 밭 꿀벌",
+      "season": "summer",
+      "hero": "bee",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c5e6f7",
+        "ground": "#73a13e",
+        "accent": "#f2b52b"
+      },
+      "bubble": {
+        "x": 460,
+        "y": 1028,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-valley-sun",
+      "title": "여름 계곡 아침",
+      "season": "summer",
+      "hero": "sun",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c8e6e8",
+        "ground": "#70b6b9",
+        "accent": "#5f9a45"
+      },
+      "bubble": null
+    },
+    {
+      "id": "su-sandcastle-crab",
+      "title": "모래성 소라게",
+      "season": "summer",
+      "hero": "hermitcrab",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c1e6f8",
+        "ground": "#ebcb97",
+        "accent": "#e0607e"
+      },
+      "bubble": {
+        "x": 468,
+        "y": 1202,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-valley-tube",
+      "title": "계곡 물놀이",
+      "season": "summer",
+      "hero": "ducktube",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c1e3e8",
+        "ground": "#79bcbe",
+        "accent": "#5f9a45"
+      },
+      "bubble": {
+        "x": 491,
+        "y": 1121,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-lotus-frog",
+      "title": "연꽃 연못 개구리",
+      "season": "summer",
+      "hero": "frog",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dfe8f4",
+        "ground": "#6db27e",
+        "accent": "#e0609a"
+      },
+      "bubble": {
+        "x": 445,
+        "y": 1068,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-zelkova-cicada",
+      "title": "느티나무 매미",
+      "season": "summer",
+      "hero": "cicada",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#bee3f5",
+        "ground": "#8ba961",
+        "accent": "#4f8a3a"
+      },
+      "bubble": {
+        "x": 396,
+        "y": 1050,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-monsoon-umbrella",
+      "title": "장마 골목 우산이",
+      "season": "summer",
+      "hero": "umbrella",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#cddde8",
+        "ground": "#8b97a1",
+        "accent": "#5a8fb0"
+      },
+      "bubble": {
+        "x": 399,
+        "y": 1125,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-bingsu-terrace",
+      "title": "여름 테라스 팥빙수",
+      "season": "summer",
+      "hero": "bingsu",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#bee2f6",
+        "ground": "#c6a171",
+        "accent": "#e0453a"
+      },
+      "bubble": {
+        "x": 396,
+        "y": 1184,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-cornfield",
+      "title": "옥수수밭 옥수수",
+      "season": "summer",
+      "hero": "corn",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#bde3f6",
+        "ground": "#a3a354",
+        "accent": "#6a9a3a"
+      },
+      "bubble": {
+        "x": 387,
+        "y": 1189,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-melon-hut",
+      "title": "원두막 참외",
+      "season": "summer",
+      "hero": "chamoe",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c4e4f4",
+        "ground": "#af9a5b",
+        "accent": "#e8a81a"
+      },
+      "bubble": {
+        "x": 396,
+        "y": 1233,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-yard-watermelon",
+      "title": "평상 수박",
+      "season": "summer",
+      "hero": "watermelon",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c4e5f4",
+        "ground": "#c6aa7d",
+        "accent": "#e0453a"
+      },
+      "bubble": {
+        "x": 393,
+        "y": 1250,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-hydrangea-snail",
+      "title": "수국 정원 달팽이",
+      "season": "summer",
+      "hero": "snail",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d5e7f3",
+        "ground": "#94ae96",
+        "accent": "#6a7ad8"
+      },
+      "bubble": {
+        "x": 492,
+        "y": 1139,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-bamboo-sparrow",
+      "title": "대나무 숲 참새",
+      "season": "summer",
+      "hero": "sparrow",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d2ebe4",
+        "ground": "#9bb169",
+        "accent": "#5f9a45"
+      },
+      "bubble": {
+        "x": 457,
+        "y": 1023,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-well-cat",
+      "title": "시골 우물 고양이",
+      "season": "summer",
+      "hero": "cat",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c4e5f5",
+        "ground": "#d0bc8f",
+        "accent": "#4f8a3a"
+      },
+      "bubble": {
+        "x": 397,
+        "y": 1045,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-beach-gull",
+      "title": "해수욕장 갈매기",
+      "season": "summer",
+      "hero": "gull",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#b2def5",
+        "ground": "#ead2a5",
+        "accent": "#3f86c8"
+      },
+      "bubble": {
+        "x": 448,
+        "y": 1113,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-jeju-dolphin",
+      "title": "제주 바다 돌고래",
+      "season": "summer",
+      "hero": "dolphin",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#b3def5",
+        "ground": "#4587a0",
+        "accent": "#2f7ab0"
+      },
+      "bubble": {
+        "x": 463,
+        "y": 1126,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-maru-fan",
+      "title": "여름 마루 선풍기",
+      "season": "summer",
+      "hero": "fan",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c1e1f0",
+        "ground": "#c3945e",
+        "accent": "#3f86c8"
+      },
+      "bubble": {
+        "x": 387,
+        "y": 1156,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-paddy-egret",
+      "title": "초록 논 백로",
+      "season": "summer",
+      "hero": "egret",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#bee3f5",
+        "ground": "#8dc1c2",
+        "accent": "#6aa04a"
+      },
+      "bubble": {
+        "x": 447,
+        "y": 1028,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-tomato-garden",
+      "title": "토마토 텃밭",
+      "season": "summer",
+      "hero": "tomato",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c3e4f5",
+        "ground": "#8e6a41",
+        "accent": "#e0453a"
+      },
+      "bubble": {
+        "x": 405,
+        "y": 1245,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-zinnia-butterfly",
+      "title": "백일홍 나비",
+      "season": "summer",
+      "hero": "butterfly",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c5e5f4",
+        "ground": "#b9a366",
+        "accent": "#e0609a"
+      },
+      "bubble": {
+        "x": 464,
+        "y": 983,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-stream-mallard",
+      "title": "냇가 징검다리 청둥오리",
+      "season": "summer",
+      "hero": "mallard",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c3e4f4",
+        "ground": "#7cc0c9",
+        "accent": "#3f8a6a"
+      },
+      "bubble": {
+        "x": 476,
+        "y": 1186,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-tidepool-starfish",
+      "title": "바위 웅덩이 불가사리",
+      "season": "summer",
+      "hero": "starfish",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c6e7f8",
+        "ground": "#bdac84",
+        "accent": "#f2894a"
+      },
+      "bubble": {
+        "x": 399,
+        "y": 1239,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-faucet-puppy",
+      "title": "수돗가 봉숭아 강아지",
+      "season": "summer",
+      "hero": "puppy",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c4e5f5",
+        "ground": "#d2b68d",
+        "accent": "#e0453a"
+      },
+      "bubble": {
+        "x": 385,
+        "y": 1144,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-dawn-summer",
+      "title": "새벽 여름 해돋이",
+      "season": "summer",
+      "hero": "moon",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#7f8eb8",
+        "ground": "#486563",
+        "accent": "#4f8a3a"
+      },
+      "bubble": null
+    },
+    {
+      "id": "su-peach-orchard",
+      "title": "복숭아 과수원",
+      "season": "summer",
+      "hero": "peach",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c6e5f4",
+        "ground": "#a2b16a",
+        "accent": "#ea7c86"
+      },
+      "bubble": {
+        "x": 397,
+        "y": 1248,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-icepop-store",
+      "title": "구멍가게 아이스께끼",
+      "season": "summer",
+      "hero": "icepop",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#bde3f6",
+        "ground": "#b5b3a9",
+        "accent": "#f08ab4"
+      },
+      "bubble": {
+        "x": 387,
+        "y": 1092,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-harbor-crab",
+      "title": "여름 등대 꽃게",
+      "season": "summer",
+      "hero": "crab",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#b4def6",
+        "ground": "#6b9dab",
+        "accent": "#e0453a"
+      },
+      "bubble": {
+        "x": 436,
+        "y": 1188,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-forest-beetle",
+      "title": "여름 숲 장수풍뎅이",
+      "season": "summer",
+      "hero": "beetle",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c7e8ec",
+        "ground": "#6a8d49",
+        "accent": "#3f7a32"
+      },
+      "bubble": {
+        "x": 375,
+        "y": 1088,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-mugunghwa-dragonfly",
+      "title": "무궁화 꽃길 잠자리",
+      "season": "summer",
+      "hero": "dragonfly",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#bee2f5",
+        "ground": "#a0b769",
+        "accent": "#c8285a"
+      },
+      "bubble": {
+        "x": 549,
+        "y": 1060,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-rainbow-swallow",
+      "title": "비 갠 무지개 제비",
+      "season": "summer",
+      "hero": "swallow",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#bce1f5",
+        "ground": "#8db867",
+        "accent": "#5a8fb0"
+      },
+      "bubble": {
+        "x": 457,
+        "y": 1023,
+        "side": "right"
+      }
+    },
+    {
+      "id": "su-fruit-basket",
+      "title": "여름 과일 바구니",
+      "season": "summer",
+      "hero": "grape",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#c4e5f5",
+        "ground": "#b98856",
+        "accent": "#7a4ab0"
+      },
+      "bubble": {
+        "x": 396,
+        "y": 1204,
         "side": "right"
       }
     }
