@@ -1,0 +1,614 @@
+{
+  "tag": "scenes-v1",
+  "size": [
+    1080,
+    1440
+  ],
+  "note": "글자 · 날짜 · 카드 판 · 말풍선 · 해님이 없는 장면 바탕(앱이 위 띠 y 0~300 에 날짜 · 해님이, 가운데 y 330~1000 에 카드 판을 얹는다). 주인공은 아래 띠. variants: a = {id}.jpg · b = {id}-b.jpg(좌우 뒤집음 — bubble.x 는 1080-x, side 는 반대). bubble = 주인공 머리 옆 한 점(1080×1440 좌표) · side = 말풍선 상자를 펼칠 쪽. hero \"sun\" 이면 주인공 그림 없음(앱의 해님이가 주인공).",
+  "scenes": [
+    {
+      "id": "persimmon-magpie",
+      "title": "감나무에 까치",
+      "season": "autumn",
+      "hero": "magpie",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#ece3d1",
+        "ground": "#e6ae40",
+        "accent": "#e8742e"
+      },
+      "bubble": {
+        "x": 457,
+        "y": 1122,
+        "side": "right"
+      }
+    },
+    {
+      "id": "autumn-hills",
+      "title": "단풍 언덕 해돋이",
+      "season": "autumn",
+      "hero": "sun",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#ffeac8",
+        "ground": "#be6430",
+        "accent": "#e8742e"
+      },
+      "bubble": null
+    },
+    {
+      "id": "ginkgo-sparrow",
+      "title": "은행나무 길",
+      "season": "autumn",
+      "hero": "sparrow",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#efeddd",
+        "ground": "#e7c171",
+        "accent": "#f2b52b"
+      },
+      "bubble": {
+        "x": 492,
+        "y": 1174,
+        "side": "right"
+      }
+    },
+    {
+      "id": "cosmos-dragonfly",
+      "title": "코스모스 길",
+      "season": "autumn",
+      "hero": "dragonfly",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d3ebf9",
+        "ground": "#c3a594",
+        "accent": "#f08fb0"
+      },
+      "bubble": {
+        "x": 480,
+        "y": 1064,
+        "side": "right"
+      }
+    },
+    {
+      "id": "scarecrow-field",
+      "title": "황금 들판 허수아비",
+      "season": "autumn",
+      "hero": "scarecrow",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f1ecdb",
+        "ground": "#dca63b",
+        "accent": "#e3a92b"
+      },
+      "bubble": {
+        "x": 357,
+        "y": 1002,
+        "side": "right"
+      }
+    },
+    {
+      "id": "oak-squirrel",
+      "title": "참나무 숲",
+      "season": "autumn",
+      "hero": "squirrel",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d4af7b",
+        "ground": "#bd8643",
+        "accent": "#c9853a"
+      },
+      "bubble": {
+        "x": 447,
+        "y": 1135,
+        "side": "right"
+      }
+    },
+    {
+      "id": "hanok-cat",
+      "title": "한옥 처마 곶감",
+      "season": "autumn",
+      "hero": "cat",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e2d2b3",
+        "ground": "#dab983",
+        "accent": "#e8742e"
+      },
+      "bubble": {
+        "x": 547,
+        "y": 1088,
+        "side": "right"
+      }
+    },
+    {
+      "id": "jangdok-puppy",
+      "title": "장독대 강아지",
+      "season": "autumn",
+      "hero": "puppy",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f2f0e4",
+        "ground": "#d8ba83",
+        "accent": "#d9532c"
+      },
+      "bubble": {
+        "x": 386,
+        "y": 1083,
+        "side": "right"
+      }
+    },
+    {
+      "id": "valley-mandarin",
+      "title": "단풍 계곡 원앙",
+      "season": "autumn",
+      "hero": "mandarin",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f2ead9",
+        "ground": "#7baab9",
+        "accent": "#e2552b"
+      },
+      "bubble": {
+        "x": 476,
+        "y": 976,
+        "side": "right"
+      }
+    },
+    {
+      "id": "lake-geese",
+      "title": "물안개 호수 기러기",
+      "season": "autumn",
+      "hero": "goose",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f4dccd",
+        "ground": "#b7c9cc",
+        "accent": "#c9a86a"
+      },
+      "bubble": {
+        "x": 449,
+        "y": 1040,
+        "side": "right"
+      }
+    },
+    {
+      "id": "cottage-rooster",
+      "title": "시골집 굴뚝 수탉",
+      "season": "autumn",
+      "hero": "rooster",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f2f0e4",
+        "ground": "#daba84",
+        "accent": "#e8913a"
+      },
+      "bubble": {
+        "x": 402,
+        "y": 976,
+        "side": "right"
+      }
+    },
+    {
+      "id": "maple-railway",
+      "title": "단풍 기찻길",
+      "season": "autumn",
+      "hero": "sun",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#eaefe8",
+        "ground": "#a2bbbb",
+        "accent": "#e2552b"
+      },
+      "bubble": null
+    },
+    {
+      "id": "bike-butterfly",
+      "title": "꽃바구니 자전거",
+      "season": "autumn",
+      "hero": "butterfly",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e0f0f9",
+        "ground": "#d0c096",
+        "accent": "#f2b52b"
+      },
+      "bubble": {
+        "x": 534,
+        "y": 943,
+        "side": "right"
+      }
+    },
+    {
+      "id": "window-teacup",
+      "title": "창가 찻잔",
+      "season": "autumn",
+      "hero": "teacup",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e6e9e2",
+        "ground": "#f2e2c7",
+        "accent": "#e8742e"
+      },
+      "bubble": {
+        "x": 417,
+        "y": 1031,
+        "side": "right"
+      }
+    },
+    {
+      "id": "mum-bee",
+      "title": "국화 화분",
+      "season": "autumn",
+      "hero": "bee",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f2efe3",
+        "ground": "#d2b991",
+        "accent": "#f2b52b"
+      },
+      "bubble": {
+        "x": 460,
+        "y": 1048,
+        "side": "right"
+      }
+    },
+    {
+      "id": "orchard-rabbit",
+      "title": "사과 과수원",
+      "season": "autumn",
+      "hero": "rabbit",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e7efeb",
+        "ground": "#a3b066",
+        "accent": "#e0302a"
+      },
+      "bubble": {
+        "x": 361,
+        "y": 1157,
+        "side": "right"
+      }
+    },
+    {
+      "id": "roast-potato",
+      "title": "군고구마 화로",
+      "season": "autumn",
+      "hero": "sweetpotato",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#ecebe6",
+        "ground": "#d5b47a",
+        "accent": "#d9532c"
+      },
+      "bubble": {
+        "x": 366,
+        "y": 1223,
+        "side": "right"
+      }
+    },
+    {
+      "id": "summit-sunrise",
+      "title": "단풍 산 정상 해돋이",
+      "season": "autumn",
+      "hero": "sun",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#fce0ca",
+        "ground": "#958678",
+        "accent": "#e2552b"
+      },
+      "bubble": null
+    },
+    {
+      "id": "lighthouse-gull",
+      "title": "바닷가 등대",
+      "season": "autumn",
+      "hero": "gull",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#d4ebf9",
+        "ground": "#679bae",
+        "accent": "#3a8ab0"
+      },
+      "bubble": {
+        "x": 448,
+        "y": 1039,
+        "side": "right"
+      }
+    },
+    {
+      "id": "reed-egret",
+      "title": "갈대 강가",
+      "season": "autumn",
+      "hero": "egret",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e7ece9",
+        "ground": "#98bcc7",
+        "accent": "#c9a86a"
+      },
+      "bubble": {
+        "x": 447,
+        "y": 1028,
+        "side": "right"
+      }
+    },
+    {
+      "id": "yard-hen",
+      "title": "마당 암탉과 병아리",
+      "season": "autumn",
+      "hero": "hen",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f2f0e4",
+        "ground": "#dbc08d",
+        "accent": "#e8913a"
+      },
+      "bubble": {
+        "x": 469,
+        "y": 1105,
+        "side": "right"
+      }
+    },
+    {
+      "id": "silvergrass-balloon",
+      "title": "억새 언덕",
+      "season": "autumn",
+      "hero": "balloon",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e4e8e9",
+        "ground": "#aa9165",
+        "accent": "#b9a27a"
+      },
+      "bubble": {
+        "x": 369,
+        "y": 1136,
+        "side": "right"
+      }
+    },
+    {
+      "id": "pumpkin-hedgehog",
+      "title": "호박 넝쿨",
+      "season": "autumn",
+      "hero": "hedgehog",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f2efe2",
+        "ground": "#a07742",
+        "accent": "#e8742e"
+      },
+      "bubble": {
+        "x": 454,
+        "y": 1060,
+        "side": "right"
+      }
+    },
+    {
+      "id": "mailbox-letter",
+      "title": "단풍길 우체통",
+      "season": "autumn",
+      "hero": "mailbox",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f2efe2",
+        "ground": "#d9b989",
+        "accent": "#d9322a"
+      },
+      "bubble": {
+        "x": 357,
+        "y": 1124,
+        "side": "right"
+      }
+    },
+    {
+      "id": "pond-goldfish",
+      "title": "돌다리 연못",
+      "season": "autumn",
+      "hero": "goldfish",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f2f0e4",
+        "ground": "#60a4a3",
+        "accent": "#f2702a"
+      },
+      "bubble": {
+        "x": 485,
+        "y": 1204,
+        "side": "right"
+      }
+    },
+    {
+      "id": "chestnut-tree",
+      "title": "밤나무",
+      "season": "autumn",
+      "hero": "chestnut",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#dcd8bf",
+        "ground": "#af8e5e",
+        "accent": "#8a4a2a"
+      },
+      "bubble": {
+        "x": 441,
+        "y": 1216,
+        "side": "right"
+      }
+    },
+    {
+      "id": "dawn-moon",
+      "title": "새벽 달님과 해돋이",
+      "season": "autumn",
+      "hero": "moon",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#a09cbf",
+        "ground": "#566647",
+        "accent": "#e8913a"
+      },
+      "bubble": null
+    },
+    {
+      "id": "park-pigeon",
+      "title": "공원 벤치",
+      "season": "autumn",
+      "hero": "pigeon",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f2efe2",
+        "ground": "#a1be75",
+        "accent": "#f2b52b"
+      },
+      "bubble": {
+        "x": 444,
+        "y": 1009,
+        "side": "right"
+      }
+    },
+    {
+      "id": "maple-deer",
+      "title": "단풍 숲",
+      "season": "autumn",
+      "hero": "deer",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e88f75",
+        "ground": "#c46c39",
+        "accent": "#c8412a"
+      },
+      "bubble": {
+        "x": 484,
+        "y": 1093,
+        "side": "right"
+      }
+    },
+    {
+      "id": "picnic-thermos",
+      "title": "가을 소풍",
+      "season": "autumn",
+      "hero": "thermos",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#e9efeb",
+        "ground": "#dba691",
+        "accent": "#e8742e"
+      },
+      "bubble": {
+        "x": 350,
+        "y": 1156,
+        "side": "right"
+      }
+    },
+    {
+      "id": "paddy-ox",
+      "title": "논두렁 황소",
+      "season": "autumn",
+      "hero": "ox",
+      "variants": [
+        "a",
+        "b"
+      ],
+      "palette": {
+        "sky": "#f2f0e4",
+        "ground": "#d2a54b",
+        "accent": "#d9b05a"
+      },
+      "bubble": {
+        "x": 479,
+        "y": 1168,
+        "side": "right"
+      }
+    }
+  ]
+}
