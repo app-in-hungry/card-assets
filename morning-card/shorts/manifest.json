@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-13T23:30:33.973Z",
- "lastDate": "2026-11-30",
+ "updatedAt": "2026-10-14T00:15:37.477Z",
+ "lastDate": "2026-12-31",
  "tails": {
   "autumn": "오늘의 아침 인사 카드예요. 소중한 분께 보내 보세요.\n매일 아침 새 카드는 토스 미니앱 '아침 인사 카드'에서 받을 수 있어요.\n(토스 앱 검색창에 '아침 인사 카드')\n\n#좋은아침 #아침인사 #아침인사카드 #좋은글 #가을아침\n\nMusic: \"Carefree\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/",
   "winter": "오늘의 아침 인사 카드예요. 소중한 분께 보내 보세요.\n매일 아침 새 카드는 토스 미니앱 '아침 인사 카드'에서 받을 수 있어요.\n(토스 앱 검색창에 '아침 인사 카드')\n\n#좋은아침 #아침인사 #아침인사카드 #좋은글 #겨울아침\n\nMusic: \"Carefree\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/",
@@ -343,6 +343,223 @@
    "card": "새로운 한 주, 좋은 아침이에요\n\n오늘 아침 창문을 열면 새 하루가 먼저 인사해요",
    "season": "autumn",
    "scene": "picnic-thermos"
+  },
+  "2026-12-01": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-01.mp4",
+   "title": "아침 인사 ☀️ 활기찬 화요일 아침이에요",
+   "card": "활기찬 화요일 아침이에요\n\n눈 내리는 날엔 세상이 조금 더 조용해져요",
+   "season": "winter",
+   "scene": "w-first-snow"
+  },
+  "2026-12-02": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-02.mp4",
+   "title": "아침 인사 ☀️ 산뜻한 수요일 아침이에요",
+   "card": "산뜻한 수요일 아침이에요\n\n추운 날일수록 따뜻한 말 한마디가 오래 남아요",
+   "season": "winter",
+   "scene": "w-snow-mountain"
+  },
+  "2026-12-03": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-03.mp4",
+   "title": "아침 인사 ☀️ 목요일 아침, 좋은 하루 되세요",
+   "card": "목요일 아침, 좋은 하루 되세요\n\n날이 추워진 뒤에야 소나무와 잣나무가 늦게 시든다는 것을 알아요\n— 논어 자한편",
+   "season": "winter",
+   "scene": "w-icicle-eave"
+  },
+  "2026-12-04": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-04.mp4",
+   "title": "아침 인사 ☀️ 기분 좋은 금요일 아침이에요",
+   "card": "기분 좋은 금요일 아침이에요\n\n한 걸음 물러서는 것이 곧 한 걸음 나아가는 바탕이에요\n— 채근담",
+   "season": "winter",
+   "scene": "w-pine-squirrel"
+  },
+  "2026-12-05": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-05.mp4",
+   "title": "아침 인사 ☀️ 여유로운 토요일 아침이에요",
+   "card": "여유로운 토요일 아침이에요\n\n어제 못다 한 일은 오늘의 몫으로, 편안하게 시작해요",
+   "season": "winter",
+   "scene": "w-paddy-sled"
+  },
+  "2026-12-06": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-06.mp4",
+   "title": "아침 인사 ☀️ 편안한 일요일 아침이에요",
+   "card": "편안한 일요일 아침이에요\n\n고맙다는 말을 자주 하는 하루 되세요",
+   "season": "winter",
+   "scene": "w-chestnut-cart"
+  },
+  "2026-12-07": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-07.mp4",
+   "title": "아침 인사 ☀️ 새로운 한 주, 좋은 아침이에요",
+   "card": "새로운 한 주, 좋은 아침이에요\n\n엄마야 누나야 강변 살자\n뜰에는 반짝이는 금모래빛\n— 김소월 「엄마야 누나야」",
+   "season": "winter",
+   "scene": "w-bungeo-stall"
+  },
+  "2026-12-08": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-08.mp4",
+   "title": "아침 인사 ☀️ 활기찬 화요일 아침이에요",
+   "card": "활기찬 화요일 아침이에요\n\n받은 마음은 잊지 않고, 준 마음은 마음에 두지 않아요",
+   "season": "winter",
+   "scene": "w-ice-top"
+  },
+  "2026-12-09": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-09.mp4",
+   "title": "아침 인사 ☀️ 산뜻한 수요일 아침이에요",
+   "card": "산뜻한 수요일 아침이에요\n\n당신 곁에 늘 좋은 사람, 좋은 일이 함께하길 바라요",
+   "season": "winter",
+   "scene": "w-ondol-tangerine"
+  },
+  "2026-12-10": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-10.mp4",
+   "title": "아침 인사 ☀️ 목요일 아침, 좋은 하루 되세요",
+   "card": "목요일 아침, 좋은 하루 되세요\n\n멀리 있어도 마음은 늘 가까이 있어요",
+   "season": "winter",
+   "scene": "w-porch-cat"
+  },
+  "2026-12-11": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-11.mp4",
+   "title": "아침 인사 ☀️ 기분 좋은 금요일 아침이에요",
+   "card": "기분 좋은 금요일 아침이에요\n\n늘 고마웠어요, 앞으로도 잘 부탁해요",
+   "season": "winter",
+   "scene": "w-kimjang"
+  },
+  "2026-12-12": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-12.mp4",
+   "title": "아침 인사 ☀️ 여유로운 토요일 아침이에요",
+   "card": "여유로운 토요일 아침이에요\n\n좋은 일을 쌓은 집에는 반드시 넉넉한 경사가 있어요\n— 명심보감 계선편",
+   "season": "winter",
+   "scene": "w-tteokguk"
+  },
+  "2026-12-13": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-13.mp4",
+   "title": "아침 인사 ☀️ 편안한 일요일 아침이에요",
+   "card": "편안한 일요일 아침이에요\n\n웃는 얼굴로 건넨 인사가 하루를 환하게 밝혀요",
+   "season": "winter",
+   "scene": "w-camellia"
+  },
+  "2026-12-14": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-14.mp4",
+   "title": "아침 인사 ☀️ 새로운 한 주, 좋은 아침이에요",
+   "card": "새로운 한 주, 좋은 아침이에요\n\n한결같이 지켜봐 주셔서 고마워요",
+   "season": "winter",
+   "scene": "w-crane-field"
+  },
+  "2026-12-15": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-15.mp4",
+   "title": "아침 인사 ☀️ 활기찬 화요일 아침이에요",
+   "card": "활기찬 화요일 아침이에요\n\n오늘 하루도 당신답게 보내세요",
+   "season": "winter",
+   "scene": "w-jangdok-magpie"
+  },
+  "2026-12-16": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-16.mp4",
+   "title": "아침 인사 ☀️ 산뜻한 수요일 아침이에요",
+   "card": "산뜻한 수요일 아침이에요\n\n고마운 얼굴을 떠올리며 보내는 인사예요",
+   "season": "winter",
+   "scene": "w-snow-station"
+  },
+  "2026-12-17": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-17.mp4",
+   "title": "아침 인사 ☀️ 목요일 아침, 좋은 하루 되세요",
+   "card": "목요일 아침, 좋은 하루 되세요\n\n어린이는 순 복덩어리다\n— 방정환 「어린이 찬미」",
+   "season": "winter",
+   "scene": "w-port-gull"
+  },
+  "2026-12-18": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-18.mp4",
+   "title": "아침 인사 ☀️ 기분 좋은 금요일 아침이에요",
+   "card": "기분 좋은 금요일 아침이에요\n\n오늘 하루가 당신에게 친절하길 바라요",
+   "season": "winter",
+   "scene": "w-ice-fishing"
+  },
+  "2026-12-19": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-19.mp4",
+   "title": "아침 인사 ☀️ 여유로운 토요일 아침이에요",
+   "card": "여유로운 토요일 아침이에요\n\n웃는 집에 복이 있다\n웃음꽃 피는 집에 좋은 일이 찾아와요",
+   "season": "winter",
+   "scene": "w-sled-hill"
+  },
+  "2026-12-20": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-20.mp4",
+   "title": "아침 인사 ☀️ 편안한 일요일 아침이에요",
+   "card": "편안한 일요일 아침이에요\n\n말이 씨가 된다\n좋은 말을 자주 하면 좋은 일이 돼요",
+   "season": "winter",
+   "scene": "w-frost-window"
+  },
+  "2026-12-21": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-21.mp4",
+   "title": "아침 인사 ☀️ 새로운 한 주, 좋은 아침이에요",
+   "card": "새로운 한 주, 좋은 아침이에요\n\n당신의 안부가 제 하루의 힘이에요",
+   "season": "winter",
+   "scene": "w-snow-cottage"
+  },
+  "2026-12-22": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-22.mp4",
+   "title": "아침 인사 ☀️ 활기찬 화요일 아침이에요",
+   "card": "활기찬 화요일 아침이에요\n\n오늘도 당신을 응원해요",
+   "season": "winter",
+   "scene": "w-rime-tit"
+  },
+  "2026-12-23": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-23.mp4",
+   "title": "아침 인사 ☀️ 산뜻한 수요일 아침이에요",
+   "card": "산뜻한 수요일 아침이에요\n\n하늘은 스스로 돕는 자를 돕는다\n스스로 애쓰는 사람에게 길이 열려요",
+   "season": "winter",
+   "scene": "w-dawn-snow"
+  },
+  "2026-12-24": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-24.mp4",
+   "title": "아침 인사 ☀️ 목요일 아침, 좋은 하루 되세요",
+   "card": "목요일 아침, 좋은 하루 되세요\n\n첫술에 배부르랴\n한 번에 다 되지 않아도 괜찮아요",
+   "season": "winter",
+   "scene": "w-birch-deer"
+  },
+  "2026-12-25": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-25.mp4",
+   "title": "아침 인사 ☀️ 기분 좋은 금요일 아침이에요",
+   "card": "기분 좋은 금요일 아침이에요\n\n하루의 첫걸음을 천천히, 그러나 기분 좋게 떼어요",
+   "season": "winter",
+   "scene": "w-snowduck-park"
+  },
+  "2026-12-26": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-26.mp4",
+   "title": "아침 인사 ☀️ 여유로운 토요일 아침이에요",
+   "card": "여유로운 토요일 아침이에요\n\n바람이 대숲을 지나가도 소리를 남기지 않듯, 지난 일은 마음에 두지 않아요\n— 채근담",
+   "season": "winter",
+   "scene": "w-hotteok-stall"
+  },
+  "2026-12-27": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-27.mp4",
+   "title": "아침 인사 ☀️ 편안한 일요일 아침이에요",
+   "card": "편안한 일요일 아침이에요\n\n마음씨가 고우면 옷 앞섶이 아문다\n고운 마음은 겉으로도 드러나요",
+   "season": "winter",
+   "scene": "w-east-sea"
+  },
+  "2026-12-28": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-28.mp4",
+   "title": "아침 인사 ☀️ 새로운 한 주, 좋은 아침이에요",
+   "card": "새로운 한 주, 좋은 아침이에요\n\n짧은 시간도 보배보다 귀해요\n— 명심보감 성심편",
+   "season": "winter",
+   "scene": "w-cabin-raccoon"
+  },
+  "2026-12-29": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-29.mp4",
+   "title": "아침 인사 ☀️ 활기찬 화요일 아침이에요",
+   "card": "활기찬 화요일 아침이에요\n\n작은 친절에도 고맙다고 말해요, 그게 하루를 밝혀요",
+   "season": "winter",
+   "scene": "w-ice-lake-mallard"
+  },
+  "2026-12-30": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-30.mp4",
+   "title": "아침 인사 ☀️ 산뜻한 수요일 아침이에요",
+   "card": "산뜻한 수요일 아침이에요\n\n말 한마디에 천 냥 빚도 갚는다\n따뜻한 말 한마디가 큰 힘이 돼요",
+   "season": "winter",
+   "scene": "w-snow-alley"
+  },
+  "2026-12-31": {
+   "url": "https://github.com/app-in-hungry/card-assets/releases/download/shorts-r2/2026-12-31.mp4",
+   "title": "아침 인사 ☀️ 목요일 아침, 좋은 하루 되세요",
+   "card": "목요일 아침, 좋은 하루 되세요\n\n천 리 길도 한 걸음부터\n큰일도 첫걸음에서 시작돼요",
+   "season": "winter",
+   "scene": "w-kite-field"
   }
  }
 }
